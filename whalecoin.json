@@ -136,5 +136,15 @@
   	"miners":"http://whale-asia.hpool.net/api/miners",
 	"url":"whale-asia.hpool.net",
         "notify":""
+    },
+	    {  
+	"name":"MOLE-POOL",
+	"stats":"http://whale.mole-pool.net:1020/api/stats",
+	"blocks":"http://whale.mole-pool.net:1020/api/blocks",
+	"payments":"http://whale.mole-pool.net:1020/api/payments",
+	"accounts":"http://whale.mole-pool.net:1020/api/accounts",
+  	"miners":"http://whale.mole-pool.net:1020/api/miners",
+	"url":"http://whale.mole-pool.net:92",
+        "notify":""
     }
 ]
