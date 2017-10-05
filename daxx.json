@@ -1,0 +1,12 @@
+[  
+    {  
+	"name":"MOLE-POOL",
+	"stats":"http://daxx.mole-pool.net:8181/api/stats",
+	"blocks":"http://daxx.mole-pool.net:8181/api/blocks",
+	"payments":"http://daxx.mole-pool.net:8181/api/payments",
+	"accounts":"http://daxx.mole-pool.net:8181/api/accounts",
+  "miners":"http://daxx.mole-pool.net:8181/api/miners",
+	"url":"http://daxx.mole-pool.net:89", 
+        "notify":""
+    }
+[
