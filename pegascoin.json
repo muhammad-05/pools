@@ -68,5 +68,15 @@
   	"miners":"http://pegapool.com/api/miners",
 	"url":"pegapool.com",
         "notify":""
-    }
+    },
+    {  
+	"name":"MOLE-POOL",
+	"stats":"http://pg.mole-pool.net:2020/api/stats",
+	"blocks":"http://pg.mole-pool.net:2020/api/blocks",
+	"payments":"http://pg.mole-pool.net:2020/api/payments",
+	"accounts":"http://pg.mole-pool.net:2020/api/accounts",
+  	"miners":"http://pg.mole-pool.net:2020/api/miners",
+	"url":"pg.mole/pool.net:91",
+        "notify":""
+	}
 ]
