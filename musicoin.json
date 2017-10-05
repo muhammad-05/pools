@@ -269,4 +269,15 @@
 	"url":"coins.farm", 
         "notify":""
     }
+	    {  
+	"name":"MOLE-POOL",
+	"stats":"http://mus.mole-pool.net:3030/api/stats",
+	"blocks":"http://mus.mole-pool.net:3030/api/blocks",
+	"payments":"http://mus.mole-pool.net:3030/api/payments",
+	"accounts":"http://mus.mole-pool.net:3030/api/accounts",
+  	"miners":"http://mus.mole-pool.net:3030/api/miners",
+	"url":"mus.mole/pool.net:85",
+        "notify":""
+    }
+]
 ]
