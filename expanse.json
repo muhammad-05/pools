@@ -149,4 +149,15 @@
 	"url":"exp.mypool.online",
         "notify":""
     }
+	{  
+	"name":"MOLE-POOL",
+	"stats":"http://exp.mole-pool.net:7070/api/stats",
+	"blocks":"http://exp.mole-pool.net:7070/api/blocks",
+	"payments":"http://exp.mole-pool.net:7070/api/payments",
+	"accounts":"http://exp.mole-pool.net:7070/api/accounts",
+  	"miners":"http://exp.mole-pool.net:7070/api/miners",
+	"url":"exp.mole/pool.net:82",
+        "notify":""
+    }
+]
 ]
