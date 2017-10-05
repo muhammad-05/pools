@@ -1,0 +1,12 @@
+[  
+    {  
+	"name":"MOLE-POOL",
+	"stats":"http://shaft.mole-pool.net:4020/api/stats",
+	"blocks":"http://shaft.mole-pool.net:4020/api/blocks",
+	"http://shaft.mole-pool.net:4020/api/payments",
+	"http://shaft.mole-pool.net:4020/api/accounts",
+  	"http://shaft.mole-pool.net:4020/api/miners",
+	"url":"http://shaft.mole-pool.net:94/#/", 
+        "notify":"support@minerpool.net"
+    }
+[
