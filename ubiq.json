@@ -136,7 +136,7 @@
 	"payments":"http://109.70.186.58:5050/api/payments", 
 	"accounts":"http://109.70.186.58:5050/api/accounts",
   	"miners":"http://109.70.186.58:5050/api/miners",
-	"url":"ubiq.mole-pool.net", 
+	"url":"mole-pool.net", 
         "notify":""
     },
     {  
