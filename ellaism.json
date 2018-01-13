@@ -139,4 +139,14 @@
 		"url":"clona.ru",
 		"notify":""
       }
+	{
+		"name":"POLE-POOL",
+		"stats":"http://ella.mole-pool.net/api/stats",
+		"blocks":"http://ella.mole-pool.net/api/blocks",
+		"payments":"http://ella.mole-pool.net/api/payments",
+		"accounts":"http://ella.mole-pool.net/api/accounts",
+		"miners":"http://ella.mole-pool.net/api/miners",
+		"url":"ella.mole-pool.net",
+		"notify":"mole-pool@mail.ru"
+      }
 ]
