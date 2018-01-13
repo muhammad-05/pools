@@ -89,4 +89,14 @@
 		"url":"2miners.com",
 		"notify":"support@2miners.com"
 	}
+	{
+		"name":"MOLE-POOL",
+		"stats":"https://whale.mole-pool.net/api/stats",
+		"blocks":"https://whale.mole-pool.net/api/blocks",
+		"payments":"https://whale.mole-pool.net/api/payments",
+		"accounts":"https://whale.mole-pool.net/api/accounts",
+		"miners":"https://whale.mole-pool.net/api/miners",
+		"url":"whale.mole-pool.net",
+		"notify":"mole-pool@mail.ru"
+	}
 ]
