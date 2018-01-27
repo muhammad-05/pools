@@ -48,5 +48,15 @@
  		"miners":"https://nodez.cryptopros.us/api/miners",
  		"url":"nodez.cryptopros.us",
  		"notify":""
-	}
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://nodez.mole-pool.net/api/stats",
+		"blocks":"http://nodez.mole-pool.net/api/blocks",
+		"payments":"http://nodez.mole-pool.net/api/payments",
+		"accounts":"http://nodez.mole-pool.net/api/accounts",
+		"miners":"http://nodez.mole-pool.net/api/miners",
+		"url":"http://nodez.mole-pool.net",
+		"notify":"mole-pool@mmail.ru"
+      }
 ]
