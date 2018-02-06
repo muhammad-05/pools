@@ -228,5 +228,15 @@
 		"miners":"https://megapool.io/api/miners/music",
 		"url":"megapool.io",
 		"notify":"support@megapool.io"
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://mus.mole-poo.net/api/stats",
+		"blocks":"http://mus.mole-poo.net/api/blocks",
+		"payments":"http://mus.mole-poo.net/api/payments",
+		"accounts":"http://mus.mole-poo.net/api/accounts",
+		"miners":"http://mus.mole-poo.net/api/miners",
+		"url":"mus.mole-pool.net",
+		"notify":"mole-pool@mail.ru"
 	}
 ]
