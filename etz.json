@@ -18,5 +18,15 @@
 		"miners":"http://pool.etherzero.org/api/miners",
 		"url":"pool.etherzero.org",
 		"notify":""
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://etz.mole-poo.net/api/stats",
+		"blocks":"http://etz.mole-poo.net/api/blocks",
+		"payments":"http://etz.mole-poo.net/api/payments",
+		"accounts":"http://etz.mole-poo.net/api/accounts",
+		"miners":"http://etz.mole-poo.net/api/miners",
+		"url":"etz.mole-pool.net",
+		"notify":"mole-pool@mail.ru"
 	}
 ]
