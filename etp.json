@@ -1,0 +1,12 @@
+[
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://etp-solo.mole-poo.net/api/stats",
+		"blocks":"http://etp-solo.mole-poo.net/api/blocks",
+		"payments":"http://etp-solo.mole-poo.net/api/payments",
+		"accounts":"http://etp-solo.mole-poo.net/api/accounts",
+		"miners":"http://etp-solo.mole-poo.net/api/miners",
+		"url":"etp-solo.mole-pool.net",
+		"notify":"mole-pool@mail.ru"
+	}
+]
