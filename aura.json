@@ -21,11 +21,11 @@
 	},
 	{
  		"name":"MOLE-POOL",
- 		"stats":"http://aura.mole-pool.net/api/stats",
- 		"blocks":"http://aura.mole-pool.net/api/blocks",
- 		"payments":"http://aura.mole-pool.net/api/payments",
- 		"accounts":"http://aura.mole-pool.net/api/accounts",
- 		"miners":"http://aura.mole-pool.net/api/miners",
+ 		"stats":"https://aura.mole-pool.net/api/stats",
+ 		"blocks":"https://aura.mole-pool.net/api/blocks",
+ 		"payments":"https://aura.mole-pool.net/api/payments",
+ 		"accounts":"https://aura.mole-pool.net/api/accounts",
+ 		"miners":"https://aura.mole-pool.net/api/miners",
  		"url":"aura.mole-pool.net",
  		"notify":""
 	},
